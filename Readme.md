@@ -8,6 +8,7 @@ The smart contract-based game ensures that each quiz is immutable, and students'
 
 ## Contract Address
 0x1636A2C08726572C4B35196CFA9F096F1449b53a
+![image](https://github.com/user-attachments/assets/aa8af4ee-6a36-433f-be01-17574264444b)
 
 ## Project Vision
 The vision behind this project is to create a gamified educational platform for medical students that combines blockchain technology with healthcare learning. By using smart contracts, we aim to provide students with a secure, transparent, and incentivized environment to enhance their medical knowledge through simulation games.
